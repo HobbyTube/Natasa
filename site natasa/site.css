@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: pink;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h2 {
+    font-size:35px;
+    text-align:center;
+    font-family: "Butterfly Kids",cursive;
+    font-style: normal;
+}
+.message {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.open-letter {
+    cursor: pointer;
+    text-decoration: underline;
+    color: blue;
+}
+.hidden {
+    display: none;
+}
+.iubire {
+    font-family:cursive;
+    font-style:normal;
+}
+ul li {
+    list-style-type: none;
+    font-size:25px;
+    position:inline;
+}
